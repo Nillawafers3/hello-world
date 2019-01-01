@@ -13,6 +13,6 @@ using std::endl;
 
 int main(int argc, const char * argv[]) {
     cout << "This is a test for Github" << endl;
-    cout << "Took cin out << endl;
+    cout << "Took cin out." << endl;
     return 0;
 }
